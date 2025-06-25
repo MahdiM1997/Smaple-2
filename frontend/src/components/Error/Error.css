@@ -1,0 +1,15 @@
+#error {
+  text-align: center;
+  margin-top: 20vh;
+}
+#error h2 {
+  font-size: 3rem;
+}
+#error p {
+  font-size: 1.5rem;
+  margin-top: 5vh;
+}
+#error i {
+  font-style: italic;
+  color: rgb(96, 96, 97);
+}

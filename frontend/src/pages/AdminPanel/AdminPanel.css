@@ -1,0 +1,20 @@
+.adminpanel-container {
+  width: 70vw;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid rgb(229, 224, 224);
+  border-radius: 5px;
+  /* background-color: aquamarine; */
+}
+.adminpanel-container div {
+  text-align: center;
+}
+.adminpanel-container #second {
+  margin-top: 47px;
+}
+/* if the screen with resolutaion larger than 800px , set the width to 500 px*/
+@media screen and (min-width: 800px) {
+  .adminpanel-container {
+    width: 600px;
+  }
+}

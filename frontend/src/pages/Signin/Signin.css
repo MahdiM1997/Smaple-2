@@ -1,0 +1,24 @@
+.signin-container {
+  max-width: 70vw;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid rgb(220, 220, 220);
+  border-radius: 5px;
+}
+.signin-container h2 {
+  margin-bottom: 40px;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.signin-container button {
+  display: flex;
+  justify-self: center;
+}
+.signin-container input {
+  margin-bottom: 1.2vw;
+}
+@media screen and (min-width: 800px) {
+  .signin-container {
+    width: 500px;
+  }
+}

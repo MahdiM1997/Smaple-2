@@ -1,0 +1,34 @@
+.header {
+  background-color: rgb(93, 103, 78);
+  color: beige;
+  padding: 10px 0;
+  width: 100vw;
+}
+.header img {
+  height: 60px;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 0;
+}
+.navbar ul {
+  margin: 0;
+  padding: 0;
+}
+.nav-menu {
+  list-style: none;
+  display: flex;
+}
+.nav-item {
+  margin-right: 10px;
+}
+
+.nav-item a {
+  text-decoration: none;
+  color: aliceblue;
+}
+.nav-item:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,15 @@
+.custom-button {
+  padding: 10px 15px;
+  border: 1px solid rgb(240, 198, 245);
+  border-radius: 7px;
+  background-color: rgb(50, 50, 180);
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+}
+.custom-button:hover {
+  background-color: navy;
+}

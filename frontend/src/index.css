@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Dorid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-something: antialiased;
+  -moz-osx-font-something: grayscale;
+  /* these are just some font styling */
+  width: 100vw;
+}

@@ -1,0 +1,13 @@
+.about-container {
+  width: 90vw;
+  margin: auto;
+  padding: 20px;
+}
+.about-container p {
+  text-align: left;
+}
+@media screen and (min-width: 1024px) {
+  .about-container {
+    width: 800px;
+  }
+}
