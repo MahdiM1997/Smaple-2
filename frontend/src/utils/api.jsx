@@ -57,7 +57,7 @@ export const makePOSTrequestForMultipleFormData = async (
     console.log(data);
     return data;
   } catch (error) {
-    console.error("Error postin data : ", error);
+    console.error("Error posting data : ", error);
     return error.response.data;
     //  error.response.data gives us the data from backend
   }

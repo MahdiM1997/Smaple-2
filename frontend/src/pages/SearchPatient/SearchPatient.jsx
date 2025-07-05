@@ -74,7 +74,7 @@ const SearchPatient = () => {
   }
   return (
     <div className="SearchPatient-container">
-      <h2>Search</h2>
+      <h2>Search Patient</h2>
       <CustomForm>
         <CustomForm.IDnumber
           value={idnumber}

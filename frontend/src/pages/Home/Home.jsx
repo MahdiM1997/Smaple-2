@@ -14,7 +14,7 @@ const Home = () => {
             <span style={{ color: "darkgreen" }}>{userSelector.username}</span>
           </p>
         ) : (
-          <p style={{ color: "red" }}> you are not logged in</p>
+          <p style={{ color: "red" }}> You are not logged in</p>
         )}
       </h3>
       <div className="features">
